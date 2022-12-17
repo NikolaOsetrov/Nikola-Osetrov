@@ -2,10 +2,11 @@
 
 ## I'm a begginer QA Engineer
 
-MY LinkedIn
+### MY LinkedIn
 
-###TECHNICAL SKILLS
-![Flutter](https://img.shields.io/badge/<LABEL>-Flutter-E43CD2?style=for-the-badge&logo=Flutter)
-![Dark](https://img.shields.io/badge/<LABEL>-Dark-E43CD2?style=for-the-badge&logo=Dark)
-![SQL](https://img.shields.io/badge/<LABEL>-SQL-E43CD2?style=for-the-badge&logo=SQL)
+### TECHNICAL SKILLS
+![Flutter](https://img.shields.io/badge/-Flutter-E43CD2?style=for-the-badge&logo=Flutter)
+![Dark](https://img.shields.io/badge/-Dark-E43CD2?style=for-the-badge&logo=Dark)
+![Sql](https://img.shields.io/badge/-Sql-E43CD2?style=for-the-badge&logo=Sql)
+
 FOLLOW ME
